@@ -1,0 +1,6 @@
+*.json
+*.txt
+*.png
+__pycache__/
+*.py
+.DS_Store
